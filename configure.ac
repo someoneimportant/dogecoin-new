@@ -65,7 +65,7 @@ m4_ifdef([AC_PROG_OBJCXX],[
 if test "x${OBJCXX+set}" = "x"; then
   OBJCXX="${CXX}"
 fi
-AC_PROG_OBJCXX
+AC_PROG_OBJCXy
 ])
 
 dnl Libtool init checks.
